@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/001/963/600/non_2x/black-and-blue-modern-material-design-with-perforated-hexagonal-pattern-dark-overlayed-sheets-of-paper-corporate-template-for-your-business-abstract-widescreen-background-vector.jpg);
+    background-size: 100%;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    color: white;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+}
+
+.navitem {
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
+
+.navitem:hover {
+    color: rgb(0, 255, 170);
+    font-weight: bold;
+}
+
+.artigo {
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
+
+.artigo:hover {
+    text-shadow: 0px 0px 2px 2px darkturquoise;
+}
